@@ -1,0 +1,12 @@
+/* Style */
+* {
+    margin:0px;
+}
+h1 {color: mediumvioletred}
+h2 {color: deeppink}
+h3 {color: magenta}
+h4 {color: violet}
+p {
+    color: maroon;
+    background-color: lightpink;
+}
